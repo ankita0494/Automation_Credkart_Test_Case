@@ -1,0 +1,12 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:151 The chromedriver version (143.0.7499.169) detected in PATH at C:\Program Files\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.133); currently, chromedriver 144.0.7559.133 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:88 Verifying credkart_register 002 started
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:90 Opening the Browser and getting https://automation.credence.in/register
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:97 Entering fake name Kylie Rivera
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:99 Entering fake email bjohnson@example.com
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:101 Entering password Credence_user_100@448
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:103 Entering confirm password Credence_user_100@448
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:105 Click on Register button
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:109 Verifying user register is successful
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:111 clicking on menu button
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:113 Clicking on logout button
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:119 Test case for registration completed

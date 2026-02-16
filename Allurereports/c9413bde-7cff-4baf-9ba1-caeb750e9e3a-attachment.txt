@@ -1,0 +1,32 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:151 The chromedriver version (143.0.7499.169) detected in PATH at C:\Program Files\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.133); currently, chromedriver 144.0.7559.133 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:32 Testcase test_Credkart_login_excel_ddt_004 is started
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:34 Reading data from excel
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:36 Number of rows in excel is 5
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:41 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:46 Entering the Email Credence_user_4494@gmail.com
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:48 Entering the password
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:50 Clicking on login button
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:52 Checking the login status
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:54 User login successful and taking screenshot
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:56 Clicking on menu button
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:58 Clicking on logout button
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:41 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:46 Entering the Email Credence_user_4494@gmail.com1
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:48 Entering the password
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:50 Clicking on login button
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:52 Checking the login status
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:63 User login fail and taking screenshot
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:41 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:46 Entering the Email Credence_user_4494@gmail.com
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:48 Entering the password
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:50 Clicking on login button
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:52 Checking the login status
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:63 User login fail and taking screenshot
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:41 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:46 Entering the Email Credence_user_4494@gmail.com1
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:48 Entering the password
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:50 Clicking on login button
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:52 Checking the login status
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:63 User login fail and taking screenshot
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:80 Some of the testcases are failed
+[32mINFO    [0m CredkartLogger:test_Credkart_login_page.py:82 Testcase test_Credkart_login_excel_ddt_010 is completed

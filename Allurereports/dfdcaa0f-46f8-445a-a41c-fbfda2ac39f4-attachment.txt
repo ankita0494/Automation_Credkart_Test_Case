@@ -1,0 +1,10 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:151 The chromedriver version (143.0.7499.169) detected in PATH at C:\Program Files\Python313\Scripts\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.133); currently, chromedriver 144.0.7559.133 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:43 Verifying credkart_login 002 started
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:46 Opening the Browser and getting https://automation.credence.in/login
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:51 Entering email id Credence_user_4494@gmail.com
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:54 Entering password Credence_user_100@124
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:57 click on login button
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:61 Verifying user login is successful
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:63 clicking on menu button
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:65 Clicking on logoff button
+[32mINFO    [0m CredkartLogger:test_Credkart_User_Profile.py:71 Test case for credkart login completed
